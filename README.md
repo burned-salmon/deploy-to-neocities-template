@@ -13,7 +13,8 @@ This is a template for people who have no clue what they're doing. It uses [Depl
 
 Now, whenever you add or change something to your repository's "main" branch, it'll upload the changed stuff to your Neocities page!  
 Once it's working, if you want to be able to delete files on your site from your repository, go to your `neocities.yml` file at `/.github/workflows/neocities.yml` and change `cleanup: false` to `cleanup: true`.  
-Now you can edit your site through Github! You can use [Github Desktop](https://desktop.github.com) to edit it directly from your computer. If you want to use Node.js or any of that funky nonsense, check the [Deploy to Neocities](https://github.com/marketplace/actions/deploy-to-neocities) documentation. Remember to account for your default branch being named `main` or `master`.
+Now you can edit your site through Github! You can use [Github Desktop](https://desktop.github.com) to edit it directly from your computer. If you want to use Node.js or any of that funky nonsense, check the [Deploy to Neocities](https://github.com/marketplace/actions/deploy-to-neocities) documentation. Remember to account for your default branch being named `main` or `master`.  
+If you need a working example, check [my site's repository](https://github.com/M1ssM0ss/missmoss).
 
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
